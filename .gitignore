@@ -1,0 +1,31 @@
+Assets/Scripts/Unwanted Scripts/
+Assets/ModularMilitaryEnvironmentPackVolume1/
+Assets/Sounds/
+Assets/Animations/
+Assets/Animator/
+Assets/Editor/
+Assets/Level 1/
+Assets/Materials/
+Assets/Standard Assets/
+Assets/Textures/
+Assets/TPS_AIM/
+Assets/Weapons/
+Library/
+.vs/
+obj/
+Assets/Scenes.meta
+Alpha, Bravo, Charlie.sln
+Assembly-CSharp-Editor-vs.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Alpha, Bravo, Charlie-csharp.sln
+Alpha, Bravo, Charlie.userprefs
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-firstpass-vs.csproj
+Assembly-CSharp-vs.csproj
+Assembly-UnityScript.unityproj
+Assembly-UnityScript-Editor.unityproj
+Assembly-UnityScript-Editor-vs.unityproj
+Assembly-UnityScript-firstpass-vs.unityproj
+Assembly-UnityScript-firstpass.unityproj
+Assembly-UnityScript-vs.unityproj
