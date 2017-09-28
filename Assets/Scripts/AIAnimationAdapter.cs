@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class AIAnimationAdapter : MonoBehaviour {
@@ -16,8 +16,6 @@ public class AIAnimationAdapter : MonoBehaviour {
 		aiSight = GetComponent<AISightAndHearing>();
 		nav = GetComponent<UnityEngine.AI.NavMeshAgent>();
 		mov = GetComponent<Movement_Handler>();
-	//	nav.updateRotation = false;
-	//	nav.updatePosition = false;
 		deadZone *= Mathf.Deg2Rad;
 
 	}
